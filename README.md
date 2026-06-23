@@ -1,4 +1,4 @@
-# 🚀 Dhanwate Vaishnavi - IT Engineering Portfolio
+# 🚀 Dhanwate Vaishnavi - IT Engineer
 
 <div align="center">
 
