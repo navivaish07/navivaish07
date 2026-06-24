@@ -10,7 +10,7 @@
 
 **Motivated IT Engineering Student | Full-Stack Developer | Cybersecurity Enthusiast**
 
-📍 Ahmednagar, Maharashtra | ☎️ 9657087117
+📍 Ahmednagar, Maharashtra | ☎️ 9657087114
 
 </div>
 
