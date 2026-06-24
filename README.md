@@ -20,7 +20,7 @@
 
 Driven IT Engineering student with strong foundations in **Java, Python, Web Development, DBMS, Computer Networks, and Cybersecurity**. 
 
-Experienced in developing web applications and Android applications with hands-on expertise in software engineering concepts. Passionate about learning emerging technologies and contributing to innovative software solutions. 
+Experienced in developing web applications and Android applications with hands-on expertise in software engineering concepts. Passionate about learning emerging technologies and contributing to innovation in software and security.
 
 **Currently exploring:** Full-stack development, Cloud computing, and Cybersecurity
 
@@ -66,72 +66,69 @@ Experienced in developing web applications and Android applications with hands-o
 
 ## 🏆 Certifications & Achievements
 
-<table>
-<tr>
-<td>✅ SAP Certified Associate - Back-End Developer</td>
-<td>✅ NPTEL Java Programming</td>
-</tr>
-<tr>
-<td>✅ Coursera Python Programming</td>
-<td>✅ Udemy Full Stack Development</td>
-</tr>
-<tr>
-<td>✅ Cisco - Cyber Threat Management</td>
-<td></td>
-</tr>
-</table>
+- ✅ SAP Certified Associate - Back-End Developer (ABAP Cloud) — SAP SE
+- ✅ Infosys Front End Web Developer — Infosys Professional Web Development Certification
+- ✅ Ethical Hacking Essentials (EHE) — Coursera / EC-Council
+- ✅ Digital Forensics Essentials (DFE) — Coursera / EC-Council
+- ✅ Jr Penetration Tester — TryHackMe (Hands-on Security Labs)
+- ✅ Web Fundamentals — TryHackMe (Web Security Testing Core)
+- ✅ Web Security Specialist — Web Security Academy (Web Fundamentals & Defense)
+- ✅ NPTEL Java Programming — Elite + Silver Certification (IIT)
+- ✅ C Programming — Tecnohacks (Software Engineering Core)
+- ✅ Python Programming — CodeSoft (Software Development Track)
+- ✅ Cyber Threat Management — Cisco Networking Academy (Security Operations)
+- ✅ Coursera Python Programming
+- ✅ Udemy Full Stack Development
 
 ---
 
 ## 🚀 Featured Projects
 
-<div>
-
-### 🏨 **Hotel Management System** | [View Code](#)
-**Tech:** Angular | Node.js | MongoDB | JavaScript  
-Developed a comprehensive web-based hotel management system featuring:
-- ✨ Online booking and reservation system
-- 👥 Customer management portal
-- 📊 Administrative dashboard for operations
-- 🔐 Secure authentication & role-based access
+### 🏨 Hotel Management System | View Code
+**Tech:** Angular | Node.js | Express | MongoDB
+A web-based hotel management platform for room bookings, reservation tracking, customer databases, and administrative control panels.
 
 ---
 
-### 🤖 **AI-Powered Migration Copilot** | [View Code](#)
-**Tech:** Python | Data Analytics | Streamlit | Machine Learning  
-Built an intelligent cloud migration platform with:
-- 🔍 Dependency analysis engine
-- ⚠️ Risk assessment & mitigation
-- 📈 Migration recommendations
-- 📊 Interactive dashboards & automated reports
+### 📱 Cafe Order Management System | View Code
+**Tech:** Kotlin | Firebase | Android SDK | Authentication
+An Android application developed using Kotlin and Firebase for secure user authentication, role-based order management, and integrated online payments.
 
 ---
 
-### 🌐 **Web Vulnerability Assessment (WebGuard)** | [View Code](#)
-**Tech:** Python | Web Security | OWASP  
-Comprehensive security assessment tool featuring:
-- 🔎 SQL Injection vulnerability detection
-- 🚨 Cross-Site Scripting (XSS) identification
-- 🛡️ Security misconfiguration analysis
-- 📋 Detailed security reports
+### 🌿 Smart Onion Shelf-Life & Environment Monitor | View Code
+**Tech:** NodeMCU | Twilio API | Sensors | Web Dashboard | Python
+A comprehensive hardware-software IoT system using NodeMCU and web dashboards to track onion moisture, temperature, and pressure with Twilio SMS alerts.
 
 ---
 
-### 🚗 **Automatic Speed Breaker Detection System** | [View Code](#)
-**Tech:** Java | IoT | Arduino | Sensors  
-Smart IoT solution for road safety:
-- 📡 Real-time overspeed detection
-- 🚨 Intelligent alert system
-- 🛣️ Public safety improvement
-- 📊 Data-driven insights
+### 🔥 IoT Boiler Monitoring System | View Code
+**Tech:** Arduino IDE | Sensors | Microcontrollers | GSM Module
+An IoT safety system utilizing temperature sensors to monitor boiler conditions and actuate SMS alerts and buzzers when critical limits are breached.
 
-</div>
+---
+
+### 🤖 AI Cloud Migration Copilot | View Code
+**Tech:** Python | Streamlit | Machine Learning | Data Analytics
+An AI-powered assessment tool for software dependencies, cloud risk estimation, and automatic migration step recommendations.
+
+---
+
+### 🌐 Web Vulnerability Assessment (WebGuard) | View Code
+**Tech:** Python | Wapiti | Burp Suite | OWASP Top 10
+Automated web application security scanning to identify vulnerability patterns (SQLi, XSS, misconfigurations) and compile assessment reports.
+
+---
+
+### 🚗 Automatic Speed Breaker Detection System | View Code
+**Tech:** Java | IoT | Arduino | Sensors
+Smart IoT solution for road safety with real-time overspeed detection, intelligent alerting, and data-driven insights.
 
 ---
 
 ## 💼 Professional Experience & Leadership
 
-### 🎯 **Secretary, Cyber Security Club**
+### 🎯 Secretary, Cyber Security Club
 **Sanjivani College of Engineering**
 - 🎓 Led cybersecurity initiatives and organized technical workshops
 - 👥 Coordinated activities with 50+ members
