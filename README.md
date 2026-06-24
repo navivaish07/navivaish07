@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vaishnavi-dhanwate-1164a591)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/cq8QjZaa8/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/navi_0707)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dhanwatevaishnavi7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dhanwatevaishnavi77@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-green?style=for-the-badge)](https://tryhackme.com/p/dhanwatevaishnavi7)
 
 **Motivated IT Engineering Student | Full-Stack Developer | Cybersecurity Enthusiast**
@@ -203,7 +203,7 @@ Smart IoT solution for road safety:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/cq8QjZaa8/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4D3D?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/navi_0707)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212245?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/dhanwatevaishnavi7)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanwatevaishnavi7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanwatevaishnavi77@gmail.com)
 
 </div>
 
@@ -224,7 +224,7 @@ I'm always excited to work on interesting projects and exchange ideas with the c
 
 <div align="center">
 
-📧 **Email:** [dhanwatevaishnavi7@gmail.com](mailto:dhanwatevaishnavi7@gmail.com)  
+📧 **Email:** [dhanwatevaishnavi77@gmail.com](mailto:dhanwatevaishnavi77@gmail.com)  
 🔗 **LinkedIn:** [Connect Here](https://linkedin.com/in/vaishnavi-dhanwate-1164a591)  
 💻 **GitHub:** [@navivaish07](https://github.com/navivaish07)
 
