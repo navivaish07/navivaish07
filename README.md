@@ -22,7 +22,7 @@ Driven IT Engineering student with strong foundations in **Java, Python, Web Dev
 
 Experienced in developing web applications and Android applications with hands-on expertise in software engineering concepts. Passionate about learning emerging technologies and contributing to in[...]
 
-**Currently exploring:** Full-stack development, Cloud computing, and Cybersecurity
+**Currently focusing:** Cybersecurity; also experienced in SAP ABAP (S/4HANA) and Full-stack development
 
 ---
 
@@ -151,7 +151,7 @@ Smart IoT solution for road safety:
 | **Database Design** | DBMS | SQL | NoSQL | Data Modeling |
 | **Security** | Vulnerability Assessment | Network Security | OWASP Top 10 |
 | **Problem Solving** | Algorithms | Data Structures | Competitive Programming |
-| **Cloud & DevOps** | Firebase | Cloud Computing | Linux Administration |
+| **Enterprise Systems** | SAP ABAP | S/4HANA |
 
 </div>
 
@@ -212,7 +212,7 @@ Smart IoT solution for road safety:
 ## 💡 Currently
 
 - 🔭 Building scalable full-stack applications
-- 🌱 Deepening expertise in cloud computing & DevOps
+- 🌱 Deepening expertise in Cybersecurity and SAP ABAP (S/4HANA)
 - 👯 Open to collaboration on web & security projects
 - 💬 Ask me about **Java, Python, Web Dev, Cybersecurity, or CTF**
 
