@@ -9,7 +9,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-green?style=for-the-badge)](https://tryhackme.com/p/dhanwatevaishnavi7)
 
 
-**Motivated IT Engineering Student | Full-Stack Developer | Cybersecurity Enthusiast**
+**Motivated IT Engineering Student | Software Developer | Cybersecurity Enthusiast**
 
 📍 Ahmednagar, Maharashtra | ☎️ 9657087114
 
